@@ -6,4 +6,4 @@ Build:
 
 Параметры командной строки: <amount:float> <src_symbol:string> <dst_symbol:string>
 
-`fiatconv 123.45 USD RUB`
+`./fiatconv 123.45 USD RUB`
